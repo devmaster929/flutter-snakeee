@@ -45,10 +45,6 @@ Feel free to customize it further to match the specifics of your project!
 
 
 
-## Authors
-
-- [@Haidar Rehman](https://github.com/HaidarRehmanNazir/Flutter-Snake-Game)
-
 
 ![Logo](https://blogger.googleusercontent.com/img/a/AVvXsEi3-K4w1gSsyxOULOk_hZiEnPzu-4q9h7UgKX6vSjgRihJGQVjuPq-LbS4zavTcoVhD_Ijr44lYBtHO6VNvcet3UPZcFnXCCZRiEyAU71jo88GzCza_AQmr5VNacpR9VoHdkliPeR78-lveyDUIS247jlGXinhJugGSy0Iu0bEUmp7cf4R92cS0Co3F)
 
